@@ -30,13 +30,13 @@ composer require jybtx/active
 Append this line to your `providers` array in `config/app.php`
 
 ```php
-HieuLe\Active\ActiveServiceProvider::class,
+Jybtx\Active\ActiveServiceProvider::class,
 ```
 
 Append this line to your `aliases` array in `config/app.php`
 
 ```php
-'Active' => HieuLe\Active\Facades\Active::class,
+'Active' => Jybtx\Active\Facades\Active::class,
 ```
 
 ## Usage
