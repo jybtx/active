@@ -1,6 +1,6 @@
 <?php
 
-namespace HieuLe\Active;
+namespace Jybtx\Active;
 
 use Illuminate\Foundation\Application;
 use Illuminate\Routing\Events\RouteMatched;

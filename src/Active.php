@@ -1,6 +1,6 @@
 <?php
 
-namespace HieuLe\Active;
+namespace Jybtx\Active;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Http\Request;
