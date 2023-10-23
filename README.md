@@ -23,7 +23,7 @@ Since version 7.0, the major version of this library will match the major versio
 Require this package as your dependencies:
 
 ```
-composer require hieu-le/active
+composer require jybtx/active
 ```
 > If you are using Laravel 5.5+, you do not need to manually register the ServiceProvider and Alias.
 
